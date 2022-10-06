@@ -1,0 +1,48 @@
+header .name {
+    /* Make my name my favorite color :) */ 
+    color: maroon;
+    background-color:thistle;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #FFFFFF, maroon);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+}
+
+.me{
+    width:400px;
+    height:500px;
+    float: right;
+}
+
+.RLC{
+    width:100px;
+    height:200px;
+    float:right;
+}
+
+#wrapper{
+    background-color: white;
+    width: 80%;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 5px 5px 5px #333333;
+    
+}
+
+nav{
+    text-align: center;
+}
+
+
+nav a{
+    /*Get rid of automatic underlines from links*/
+    text-decoration: none;
+}
+
+.contact{
+    text-decoration: none;
+}
