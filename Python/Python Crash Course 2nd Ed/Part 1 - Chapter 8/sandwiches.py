@@ -12,5 +12,5 @@ def make_sandwich(*ingredients):
         print(ingredient)
 
 make_sandwich('ham', 'cheese', 'mayonnaise')
-make_sandwich('turkey', 'lettuce', 'tomato', 'msyonnaise')
+make_sandwich('turkey', 'lettuce', 'tomato', 'mayonnaise')
 make_sandwich('peanut butter', 'grape jelly')
